@@ -1,0 +1,18 @@
+# Python virtual environments
+venv/
+.venv/
+
+# Environment variables and API secrets
+.env
+my_agent/.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Google ADK local data
+my_agent/.adk/
+.adk/
+
+# Temporary logs
+*.log
